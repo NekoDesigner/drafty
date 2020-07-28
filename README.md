@@ -10,7 +10,7 @@ Compatiable with [Spatie/MediaLibrary package v8](https://docs.spatie.be/laravel
 
 install package via composer
 ```shell
-composer install nekodev/drafty
+composer require nekodev/drafty
 ```
 
 Add provider from *config/app.php*
