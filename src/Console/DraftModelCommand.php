@@ -40,11 +40,11 @@ class DraftModelCommand extends GeneratorCommand {
     {
         if($this->option('media'))
         {
-            return  base_path('../packages/drafty/src/Console/Stubs/DraftMedia.stub');
-            // return  base_path('vendor/Nekodev/drafty/src/Console/Stubs/DraftMedia.stub');
+            // return  base_path('../packages/drafty/src/Console/Stubs/DraftMedia.stub');
+            return  base_path('vendor/Nekodev/drafty/src/Console/Stubs/DraftMedia.stub');
         }
-        return  base_path('../packages/drafty/src/Console/Stubs/Draft.stub');
-        // return  base_path('vendor/Nekodev/drafty/src/Console/Stubs/Draft.stub');
+        // return  base_path('../packages/drafty/src/Console/Stubs/Draft.stub');
+        return  base_path('vendor/Nekodev/drafty/src/Console/Stubs/Draft.stub');
     }
 
     /**
