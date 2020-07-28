@@ -1,0 +1,19 @@
+{
+    "name": "NekoDesigner/drafty",
+    "description": "Create draft for your models in Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tahar Chibane",
+            "email": "tahar.chibane@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nekodev\\Drafty\\": "src/"
+        }
+    }
+}

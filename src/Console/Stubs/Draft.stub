@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Drafts;
+
+use Nekodev\Drafty\Models\Draft as DraftModel;
+
+class {{model}} extends DraftModel
+{
+
+}

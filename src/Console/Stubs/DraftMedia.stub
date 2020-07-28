@@ -1,0 +1,12 @@
+<?php
+
+namespace App\Drafts;
+
+use Spatie\MediaLibrary\HasMedia;
+use Spatie\MediaLibrary\InteractsWithMedia;
+use Nekodev\Drafty\Models\Draft as DraftModel;
+
+class {{model}} extends DraftModel implements HasMedia
+{
+    use InteractsWithMedia;
+}
