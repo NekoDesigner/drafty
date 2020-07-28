@@ -1,6 +1,6 @@
 # Drafty 
 
-See the complete documentation on [nekodev packages website](https://packages.nekodev.fr/laravel/drafty).
+See the complete documentation on [nekodev packages website](https://packages.nekodev.fr/laravel/drafty). (Comming soon)
 
 Compatiable with [Spatie/MediaLibrary package v8](https://docs.spatie.be/laravel-medialibrary/v8/).
 
