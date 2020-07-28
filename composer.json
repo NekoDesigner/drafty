@@ -1,5 +1,5 @@
 {
-    "name": "NekoDesigner/drafty",
+    "name": "nekodev/drafty",
     "description": "Create draft for your models in Laravel",
     "type": "library",
     "license": "MIT",
